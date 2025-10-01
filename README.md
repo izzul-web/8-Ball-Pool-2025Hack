@@ -28,7 +28,3 @@ Download- https://www.mediafire.com/file/m8qga4qo9cv4cmt/Fc_Cheat_1.zip/file
 - **Country Changer**: Modify location and flag
 
 
-
-
-### Android Installation
-1. **Enable Unknown Sources**
